@@ -1,0 +1,22 @@
+@charset "UTF-8";
+
+#berry{
+	background-color: red
+}
+
+ul [data-foodtype=squishy]{ 
+  background-color: orange;
+}
+ul{
+
+	list-style-type: none;
+	display: inline-block;
+	float: left;
+	width: 100px;
+ }
+li{
+	list-style-position: inside;
+	border: 1px solid black;
+}.pears {
+	background-color: green;align-content: 
+}
